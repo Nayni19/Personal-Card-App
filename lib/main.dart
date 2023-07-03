@@ -66,8 +66,8 @@ class MyApp extends StatelessWidget {
                     fontFamily: 'SourceSans',
                     fontWeight: FontWeight.bold),
               ),
-              CustomCard(icon: Icons.phone_in_talk, text: '7977592693'),
-              CustomCard(icon: Icons.email, text: 'nayni.shah@5paisa.com')
+              CustomCard(icon: Icons.phone_in_talk, text: '9028005683'),
+              CustomCard(icon: Icons.email, text: 'nayni.shah@yahoo.com')
             ],
           ),
         ),
